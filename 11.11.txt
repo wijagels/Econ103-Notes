@@ -110,3 +110,11 @@ Definition of GDP:
 				Imports are the portions of C, I, G that are spent on goods and services produced abroad.
 		These components add up to GDP (denoted by Y)
 			y = C + I + G + NX
+	Real GDP vs Nominal GDP
+		Inflation can distort economic variables like GDP so we have two versions of GDP:
+			1. Nominal GDP
+				- Values output using current prices
+				- Not corrected for inflation
+			2. Real GDP
+				- Value output using the prices of a base year
+				- Is corrected for inflation
