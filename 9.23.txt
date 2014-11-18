@@ -1,0 +1,23 @@
+Advantage
+	- If each country has an absolute advantage in one good and specializes in that good, then both countries can gain from trade.
+	- Producing one ton of wheat uses 10 labor hours in US vs 25 in Japan, US has an absolute advantage in Wheat Industry
+	- Producing one computer requires 125 labor hours in Japan but only 100 in US, US has an absolute advantage in Computer Industry
+	Why does Japan specialize in computers?
+	Why do both countries gain from trade?
+		Comparative advantage: Ability to produce a good at a lower cost than another producer
+		Gains from trade arise from comparative advantage differences in opportunity costs
+		Comparative advantage means being able to produce a good at a lower opportunity cost.  Absolute advantage means being able to produce a good with fewer inputs
+		When each country specializes in the goods in which it has a comparative advantage, total production in all countries is higher, the world's economic pie is bigger and all countries can gain from trade.
+		The same applies to individual producers like the farmer and rancher specializing in different goods and trading with each other.
+Supply & Demand
+	- What factors affect buyer demand for goods?
+	- What factors affect seller supply of goods?
+	- How do supply and demand determine the price of a good and the quantity sold?
+	- How do changes in the factors that affect demand or supply affect the market price and quantity of goods?
+	- How do markets allocate resources?
+	Markets and Competition:
+		- A market: A group of buyers and sellers of a particular product
+		- A competitive market: A market with many buyers and sellers, each having a negligible effect on price.
+		- A perfectly competitive market:
+			1. All goods exactly the same
+			2. Buyers and sellers are so numerous that no one can affect the market price

@@ -1,0 +1,112 @@
+Arguments for restricting trade
+1. The job argument
+	One of the main arguments against free trade is that, when trade introduces lower cost international competitors, it puts domestic producers out of business. While this argument isn't technically incorrect, it is short sighted. When looking at the free trade issue more broadly, on the other hand, it becomes clear that there are two other important considerations. First, the loss of domestic jobs is coupled with reductions in prices of goods that consumers buy, and these benefits shouldn't be ignored when weighing the trade-offs involved in protecting domestic production versus free trade. Second, free trade not only reduces jobs in some industries, but it also creates jobs in other industries. This dynamic occurs both because there are usually industries where the domestic producers end up being exporters (which increases employment) and because the increased income held by foreigners who benefited from free trade is at least partly used to buy domestic goods, which also increases employment.
+2. The national security argument
+	Another common argument against free trade is that it is risky to depend on potentially hostile countries for vital goods and services. Under this argument, certain industries should be protected in the interests of national security. While this argument is also not technically incorrect, it is often applied much more broadly than it should be in order to preserve the interests of producers and special interests at the expense of consumers.
+3. The infant-industry argument
+	A new industry argues for temporary protection until it's mature and can compete with foreign firms
+	Economist's response:
+	- Difficult for government to determine which industries will eventually be able to compete and whether benefits of establishing these industries exceed cost to consumers of restricting imports
+	- Besides, if a firm will be profitable in the long run, it should be willing to incur temporary losses.
+4. The unfair competition argument
+	Producers argue their competitors in another country have an unfair advantage, eg. due to government subsidies.
+	Economist's response:
+	- We can import extra-cheap products subsidized by the other country's taxpayers.  The gains to our own consumers will exceed the losses to our producers.
+5.  The protection as a bargaining chip argument
+	The us can threaten to limit the imports of French wine unless France lifts their quotas on American beef.
+	Economist's response:
+	- Suppose France refuses.  Then the US must choose between two bad options:
+	1. Restrict imports from France, which reduces welfare in US
+	2. Don't restrict imports, which makes US look like a bitch
+
+Trade Agreements
+	- A country can liberalize trade with
+	1. Unilateral reductions in trade restrictions
+	2. Multilateral agreements with other nations
+Examples of Trade Agreements:
+	North American Free Trade Agreement (NAFTA 1993)
+		Lowers trade barriers among USA, Mexico, and Canada
+	General Agreement on Tariff and Trade (GATT)
+		Continuing series of negotiations among many of the world's countries with the goal of promoting free trade.
+		The GATT is now enforced by an international institution called the World Trade Organization (WTO)
+			Established in 1995 and headquartered in Geneva, Switzerland, the WTO has 153 country members which account for 97% of the world trade as of 2009
+			Functions of WTO:
+				1. Administer trade agreements
+				2. Provide a forum for negotiations
+				3. Handle disputes among country members
+	APEC Forum
+		Asia-Pacific Economic Corporation
+		A forum or 21 Pacific Rim member economies that seeks to promote free trade and economic cooperation throughout the Asia-Pacific region.  It was established in 1989 and it's a biannual forum.
+		Both US and China are member Economies.
+
+Measuring a Nation's Income
+	- What is a Gross Domestic Product(GDP)?
+	- How is GDP related to a nation's total income and spending
+	- What are the components of GDP?
+	- How is GDP corrected for inflation?
+	- Does GDP measure society's well-being?
+Income and Expenditure
+	- GDP measures total income of everyone in the economy
+	- GDP measures total expenditure on the economy's output of goods and services
+	For the economy as a whole, income = expenditure because every dollar a buyer spends is a dollar of income for the seller.
+	The Circular-Flow Diagram
+	- It's a simple depiction of the macro economy, and illustrates GDP spending revenue, factor payments, and income.
+	https://4.bp.blogspot.com/-TVt1qPbGbmo/TpvQHcTlS-I/AAAAAAAAACk/MO_zWczQ6Ww/s1600/00034.jpg
+	Omitted Sectors:
+		1. The government
+			Collect taxes, buys goods & services
+		2. The financial system
+			Matches savers' supply of funds with borrowers' demand
+		3. The foreign sector
+			Trades goods and services, financial assets, and currencies with the country's residents
+Definition of GDP:
+	The market value of all final goods and services produced within a country in a given period of time
+		1. All goods are valued at their market prices, so they can compare with each other.
+		2. GDP includes all items produced in the economy and sold legally in markets.
+		Special Cases:
+			1. Home owners: government will estimate its rental value and include it in GDP
+			2. Goods illicitly produced and sold, such as drugs are not counted in GDP.
+			3. Goods that never enter the marketplace are not included in GDP.
+			4. Services that never entered the marketplace are not included in GDP.
+		3. GDP only includes final goods that have already embodied the value of the intermediate goods used in their production.
+			Final goods: goods intended for the end user.
+			Intermediate goods: goods used as components or ingredients in the production of goods
+		4. GDP includes tangible goods and intangible services.
+			Tangible goods: DVDs, Mountain Bikes
+			Intangible services: Dry cleaning, concerts, cell phone service
+		5. GDP includes currently produced goods, not goods produced in the past.
+			New car produced in one year, sold in another, the GDP is counted in the year it's produced
+			Used car not counted in GDP
+		6. GDP measures the value of production that occurs within a country's borders, whether done by its own citizens of by foreigners located there.
+			eg. A Canadian citizen works in the US (included in US GDP)
+			eg. An American citizen owns a factory in China (included in Chinese GDP)
+		7. GDP measures the value of production that takes place within a specific interval of time, usually a year or a quarter.
+			Quarterly GDP
+				1. Government usually presents Quarterly GDP at an annual rate (x4)
+				2. Seasonal adjustment.  Take out variance due to seasons such as Winter because of holidays.
+	The Components of GDP
+		Four Components:
+			1. Consumption (C)
+				Daily spending by households on daily goods and services
+				Note on Housing Costs:
+					1. For renters, consumption includes rent payments.
+					2. For homeowners, consumption includes the estimated rent of the house, but not the purchase price or mortgage payments.  For the initial purchase, buy price is included.
+			2. Investment (I)
+				Total spending on goods that will be used in the future to produce more goods.
+				Includes spending on
+					1. Capital equipment (eg. machines and tools)
+					2. Structures (factories, office buildings, also houses)
+					3. Inventories (goods produced but not yet sold)
+				Does not mean the purchase price of financial assets like stocks and bonds
+			3. Government Purchases (G)
+				All spending on the goods and services purchased by government at the federal, state, and local levels.
+					eg. Salaries of government workers, expenditure on public works
+				Excludes transfer payments such as Social Security or Unemployment Insurance.
+					1. They aren't made in exchange for currently produced goods or services.
+					2. Avoid double counting.
+			4. Net Exports (NX)
+				= Exports - Imports
+				Exports represent foreign spending on the domestically produced goods and services.
+				Imports are the portions of C, I, G that are spent on goods and services produced abroad.
+		These components add up to GDP (denoted by Y)
+			y = C + I + G + NX

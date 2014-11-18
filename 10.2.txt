@@ -1,0 +1,21 @@
+Supply curve
+	The quantity supplied of any good is the amount that sellers are willing and able to sell at a certain price.
+	Law of supply: the claim that the quantity supplied of a good rises when the price of the good rises, other thing being equal.
+	Supply Schedule: A table that shows the relationship between the price of a good and the quantity supplied.
+	Market Supply Curve: The quantity supplied in the markets is the sum of the quantities supplied by all sellers at each price.
+		- The supply curve shows how price affects quantity supplied, other things being equal
+		- These other things are non-price determinants of supply
+		- Changes in them shift the supply curve.  The shifters include: input prices, technology, number of sellers, and expectations
+			- Input prices
+				- A fall in input prices makes production more profitable at each output price, so firms supply a larger quantity at each price
+				- Supply curve shifts to the right
+			- Technology
+				- Technology determines how many inputs are required to produce a unit of product
+				- A cost-saving technological improvement has the same effect as a fall in input prices
+				- Supply curve shifts to the right
+			- Number of sellers
+				- An increase in the number of sellers increases the quantity supplied at each price
+				- Supply curve shifts to the right
+			- Expectations
+				- Events in the middle east lead to expectations of higher oil prices in the future.
+				- Shift left

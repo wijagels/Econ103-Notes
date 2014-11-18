@@ -1,0 +1,42 @@
+- In the Mustang repair scenario, the $1000 you spent on repairs is irrelevant.  What matters is the cost vs benefit of the marginal repair.
+- Sunk cost: a past cost that has already occurred and can't be recovered.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+5. Three Principles of how People Interact
+Trade can make everyone better off
+    - Rather than being self-sufficient, people can specialize in producing one good or service and exchange it for other goods.
+    - Countries benefit from trade and specialization:
+        1. Get a better price abroad for goods they produce
+        2. Buy other goods more cheaply from abroad than could be produced at home
+6. Markets are usually a good way to organize economic activity.
+    What goods to produce
+    How to produce them
+    How much of each to produce
+    Who gets them
+	- A market economy: allocates resources through the decentralized decisions of many households and firms as they interact in markets for goods and services.
+	- A planned economy is one that is heavily regulated or controlled by the government, most notably in socialist or communist countries.
+	- The invisible hand* works through the price system:
+		- The interaction of buyers and sellers determine prices
+		- Each price reflects the goods value to buyers, and cost of producing the goods to the sellers
+		- Prices guide self-interested households and firms to make decisions that in many cases, maximize society's economic well-being
+7. Governments can sometimes improve market outcomes
+    - Important role for government: enforce property rights
+    - People are less inclined to work, produce, invest, or purchase if large risk of their property being stolen
+    Ex. restaurant will not serve meals if customers do not pay before they leave
+    Ex. musical company won't produce music if people steal it
+    - Market failure: when the market fails to allocate society's resources efficiently
+        1. Externalities: when the production or consumption of a good affects bystanders
+        2. Market Power: a single buyer or seller has substantial influence on market prices
+		- Public policies may promote efficiency/equality.
+		- If the market's distribution of economic well-being is not desirable, tax or welfare policies can change how the economic 'pie' is divided.
+8. A country's standard of living depends on its ability to produce goods and services
+	- Huge variation in living standards across countries and over time
+	- The most important determinant of living standards is productivity, the amount of goods and services per unit of labor
+	- Productivity depends on the equipment, skills, and technology available to workers.  Also depends on other factors such as labor unions or international competition.  Less impact on living standards
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Famous insight by Adam Smith in the Wealth of Nations (1776)
+    Each of these households and firms acts as "led by an invisible hand" to promote general economic well-being.

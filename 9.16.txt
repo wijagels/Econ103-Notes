@@ -1,0 +1,9 @@
+Microeconomics vs Macroeconomics
+	Micro: The study of how households and firms make decisions and they interact in markets
+		ex. The effects of rent control on housing in NYC
+		ex. The impact of foreign competition on the US auto industry
+		ex. The effects of compulsory school attendance on worker's earnings
+	Macro: The study of economy-wide phenomena, including inflation, unemployment, and economic growth
+		ex. The effects of borrowing by the federal government
+		ex. The changes over time in unemployment rate
+		ex. Policies to promote growth in national living standards

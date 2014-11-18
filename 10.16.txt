@@ -1,0 +1,21 @@
+- What is consumer surplus?  How is it related to demand curve?
+- What is producer surplus?  How is it related to supply curve?
+- Do Markets produce a desirable allocation of resources?  Or could the market outcome be improved upon?
+Welfare Economics: studies how the allocation of resources affects economic well-being
+	Allocation of Resources refer to three questions:
+		1. How much of each good is produced?
+		2. Which producers produce it?
+		3. Which consumers consume it?
+	Willingness to Pay (WTP)
+		A buyer's WTP for a good is the maximum amount the buyer will pay for that good.  WTP measures how much the buyer measures the good.
+		ex. Ipod demand
+		Anthony		$250							301+		Nobody	0
+		Chad		$175							251-300		Flea	1
+		Flea		$300							176-250		F,A		2
+		John		$125							126-175		F,A,C	3
+													0-125		F,A,C,J	4
+		At any Q, the height of the DD curve is the WTP of the marginal buyer, the buyer who would leave the market if P were any higher.
+	Consumer Surplus (CS)
+		The amount a buyer is willing to pay minus what the buyer actually pays.
+		
+			CS = WTP - P

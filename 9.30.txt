@@ -1,0 +1,32 @@
+Demand:
+	The quantity demanded of any good is the amount of the good that buyers are willing and able to buy at a certain price.
+Law of Demand:
+	The claim that the quantity of a good falls when the price of a good rises, keep other things equal.
+Demand Schedule:
+	A table that shows the relationship between the price of a good and the quantity demanded
+	Helen's demand schedule for lattes:
+		$0 > 16
+		$2 > 12
+		$3 > 10
+		$4 > 8
+		$6 > 4
+	Ken's demand schedule for lattes:
+		$0 > 8
+		$2 > 6
+		$3 > 5
+		$4 > 4
+		$6 > 2
+	Aggregate Demand
+		$0 > 24
+		$2 > 18
+		$3 > 15
+		$4 > 12
+		$6 > 6
+	The Demand Curve shows how price affects quantity demanded, other things being equal
+		- Other things are non-price determinants of demand.  Things that determine buyer's demand for a good other than the price.
+		- Changes in them shift the demand curve.  The shifters include number of buyers, income, prices of related goods, tastes and expectations.
+			- Increase in number of buyers increases quantity demanded at each price, shifting DD curve to the right
+			- Increase in Income causes increase in quantity demanded at each price, shifting DD curve to the right
+			- Increase in prices of related goods causes an increase in demand because it's relatively cheaper, shifts DD curve to the right
+			- Anything that causes a shift in taste toward a good will increase demand for that good, shifting DD curve to the right
+			- Expectations affect consumer buying decisions.  If people expect their incomes to rise, their demand for meals at expensive restaurants may increase.  If the economy sours and people worry about job security, demand for new cars may decrease.

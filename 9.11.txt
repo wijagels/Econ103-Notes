@@ -1,0 +1,27 @@
+9. Prices rise when the government prints too much money
+	Inflation: an increase in the overall level of prices in the economy
+	In the long run, inflation is always caused by excessive growth in the quantity of money, which causes the value of money to fall.
+	The faster the government creates money, the greater the inflation rate.
+10. Society faces a short-run trade-off between inflation and unemployment
+	- In the short run (1-2 years), many economics policies push inflation and unemployment in opposite directions.
+	- The short-run trade-off plays a key role in the analysis of business cycle -- the irregular and largely unpredictable fluctuation in economic activity, such as employment and production.
+	
+How does money flow through markets?
+	- There are two types of "subjects":
+		1. Firms
+		2. Households
+	- There are two markets:
+		1. The goods & services market
+		2. The factors of production market
+			- The resources that firms use to produce goods and services
+				- Labor, land, capital (buildings, plants, machines used for production)
+	- Firms:
+		- Hire and use factors of production
+		- Produce goods & services
+	- Households:
+		- Buy goods and services
+		- Own the factors of production, sell or rent them to firms
+	- http://justdan93.files.wordpress.com/2012/06/111.jpg
+	- Circular flow diagram: A visual model of the economy, shows how money flows through markets among households and firms.
+	- The Production Possibility Frontier (PPF)
+		- A curve depicting all maximum output possibilities for two or more goods given a set of inputs (resources, labor, etc.). The PPF assumes that all inputs are used efficiently.
