@@ -118,3 +118,14 @@ Definition of GDP:
 			2. Real GDP
 				- Value output using the prices of a base year
 				- Is corrected for inflation
+	The GDP Deflator
+		- The GDP deflator is a measure of the overall price:
+			GDP deflator = 100 * (nominal GDP / real GDP)
+		- One way to measure the economy's inflation rate is to compute the percentage increase in the GDP deflator from one year to the next
+			Inflation Rate = (Current Year’s GDP Deflator – Previous Year’s GDP Deflator) / Previous Year’s GDP Deflator X 100 
+	Real GDP per capita is the main indicator of the average person's standard of living
+	GDP is not a perfect measure of well being, because it doesn't value :
+		- The quality of the environment
+		- Leisure time
+		- Non-market activity such as the child care a parent provides his or her child at home
+		- Equitable distribution of income
