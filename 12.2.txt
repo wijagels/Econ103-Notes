@@ -4,7 +4,14 @@ Consumer Price Index(CPI)
 	- Measures the typical consumers' cost of living
 	- The basis of cost of living adjustment (COLA) is in many contracts and social security
 How is CPI calculated? (5 steps)
-	1. Fix the "basket".  The bureau of labor statistics (BLS) surveys consumers to determine what is in a typical consumer's "shopping basket".
-	2. Find the prices.  The BLS collects data on the prices of all the goods in the basket.
-	3. Compute the basket's cost.  Use the prices to compute the total cost of the basket.
+	1. Fix the "basket".
+		The bureau of labor statistics (BLS) surveys consumers to determine what is in a typical consumer's "shopping basket".
+	2. Find the prices.
+		The BLS collects data on the prices of all the goods in the basket.
+	3. Compute the basket's cost.
+		Use the prices to compute the total cost of the basket.
+	4. Choose a base year and compute the index.
+		The CPI in any year is 100 * cost of basket in current / cost of basket in base
+	5. Compute the inflation rate.
+		The percentage change in the CPI from the preceding year: (CPI this year - last year / CPI last year) * 100%
 	
