@@ -14,4 +14,34 @@ How is CPI calculated? (5 steps)
 		The CPI in any year is 100 * cost of basket in current / cost of basket in base
 	5. Compute the inflation rate.
 		The percentage change in the CPI from the preceding year: (CPI this year - last year / CPI last year) * 100%
-	
+Problems With CPI:
+	#1 Substitution Bias
+		Over time, some prices rise faster than others, so consumers substitute toward goods that become relatively cheaper negating the effects of price increases
+		The CPI misses this substitution because it uses a fixed basket of goods.  Therefore, CPI overstates increases in the cost of living.
+	#2 Introduction of new goods
+		The introduction of new goods increases variety.  Allows consumers to find products that more closely meet their needs.  In essence, dollars become more valuable.
+		The CPI misses this effect because it uses a fixed basket of goods.  Thus, the CPI overstates increases in the cost of living.
+	#3 Unmeasured quality change
+		Improvements in the quality of goods in the basket increases the  value of each dollar
+		The BLS tries to account for quality changes but misses some as quality is hard to measure
+		Thus, the CPI overstates increases in the cost of living.
+	Important Facts:
+		- Each of these problems causes CPI to overstate cost of living increases
+		- The BLS has made technical adjustments, but the CPI likely still overstates inflation by about 0.5% per year
+		- This is important because Social Security payments and many contracts have COLAs tied to CPI
+		- In 1990, it was estimated that CPI's bias cost taxpayers $1 trillion every 12 years
+
+GDP Deflator vs. CPI
+	1. GDP deflator reflects the prices of all goods and services produced domestically, whereas the CPI reflects the prices of all goods bought by typical consumers
+		ex 1. The price of an airplane produced by Boeing and sold to the Air Force rises [Included in GDP Deflator, but not in CPI]
+		ex 2. Volvo raises the price of cars imported from Switzerland [Not included in GDP Deflator, included in CPI]
+	2. CPI uses a fixed basket of goods, while GDP deflator compares currently produced goods and services.
+		1. Occasional change vs. always change
+		2. Proportionate increases will not cause a discrepancy, but different price changes will
+		ex 3. In each scenario, determine the effects on the CPI and GDP deflator.
+			a. Starbucks raises the price of Frappucinos [GDP: Y CPI: Y]
+			b. Caterpillar raises the price of the industrial tractors it manufactures at its Illinois factory [GDP: Y CPI: N]
+			c. Armani raises the price of the imported Italian jeans it sells in the US [GDP: N CPI: Y]
+Correcting variables for inflation
+	1. Comparing Dollar figures from different times
+		- Inflation makes it harder to compare dollar amounts from different times
